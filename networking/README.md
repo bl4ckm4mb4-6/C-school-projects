@@ -2,7 +2,7 @@
 
 A collection of network tools written in C. This repository contains network analysis and diagnostic utilities, developed using sockets and the ICMP protocol.
 
-> ⚠️Note: These tools are written for Windows.
+> ⚠️Note: These tools are written for Windows. Comments and console printed text are written in Italian.
 
 
 ## 🛠 Projects:
