@@ -18,7 +18,7 @@ These can be compiled directly using GCC:
 
 ### 📦 Structured Projects
 * `📂 libreria-persona/` - Didactic example of Encapsulation and Opaque Structs in standard C. Check its internal `README.md` for details!
-
+* `📂 networking/` - A collection of network tools written in C.  Check its internal `README.md` for details!
 ---
 
 ## 🛠️ Global Prerequisites
